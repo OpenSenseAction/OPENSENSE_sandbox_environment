@@ -14,6 +14,12 @@ dependencies:
   - r-sf
   - r-s2
   - r-TeachingDemos
+  # Additional R packages for RAINLINK
+  - r-gstat
+  - r-hexbin
+  - r-sfheaders
+  - r-abind
+  - r-stars
   # Some basic Python packages
   - nbgitpuller
   - numpy
