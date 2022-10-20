@@ -3,6 +3,8 @@
 # just to test if the script is run...
 touch foo.bar
 
+cd OPENSENSE_sandbox_outsource_environment
+
 echo ''
 echo 'get content of submodules'
 git submodule update --init
