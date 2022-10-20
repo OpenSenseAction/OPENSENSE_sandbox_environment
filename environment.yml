@@ -3,7 +3,9 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - python=3.10.6
+  - python=3.10.6 
+  # for adding submodule dirs to conda env
+  - conda-build
   # Some basic R packages
   - r-base=4.1.3
   - r-essentials  
