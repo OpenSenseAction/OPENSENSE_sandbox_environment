@@ -44,3 +44,7 @@ dependencies:
   # Additional dependencies for PyNNcml
   - cpuonly
   - pytorch
+  # Additional dependencies for cml_data_explorer
+  - panel
+  - holoviews
+  - hvplot
