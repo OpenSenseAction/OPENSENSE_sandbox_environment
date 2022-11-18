@@ -48,3 +48,4 @@ dependencies:
   - panel
   - holoviews
   - hvplot
+  - datashader
