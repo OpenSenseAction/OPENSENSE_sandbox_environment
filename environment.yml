@@ -49,3 +49,5 @@ dependencies:
   - holoviews
   - hvplot
   - datashader
+  # Additional dependency to write to NetCDF to zarr
+  - zarr
