@@ -41,6 +41,7 @@ dependencies:
   - tensorflow
   - bottleneck
   - future
+  - sparse
   # Additional dependencies for PyNNcml
   - cpuonly
   - pytorch
